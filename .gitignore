@@ -1,0 +1,15 @@
+/.idea
+/.vs
+/.vscode
+/build
+/cmake-build-debug
+/CMakeLists.txt
+/out
+/QtWidget.AAEDB5E9
+/QtWidgetsApplication9.qrc
+/QtWidgetsApplication9.sln
+/QtWidgetsApplication9.ui
+/QtWidgetsApplication9.vcxproj
+/QtWidgetsApplication9.vcxproj.filters
+/QtWidgetsApplication9.vcxproj.user
+/x64
